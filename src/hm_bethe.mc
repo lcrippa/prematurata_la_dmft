@@ -1,6 +1,5 @@
 blinda la supercazzola leggi o scherziamo?
 blinda la supercazzola aggiungi con lettera Mascetti o scherziamo?
-blinda la supercazzola variabili o scherziamo?
 blinda la supercazzola Necchi ilbagnoepronto o scherziamo?
 blinda la supercazzola lavati con il sapone Necchi o scherziamo?
 blinda la supercazzola Necchi dammintero con l'elemento Necchi o scherziamo?
@@ -17,8 +16,7 @@ blinda la supercazzola spiaccica o scherziamo?
 blinda la supercazzola prendilasigma o scherziamo?
 blinda la supercazzola Sassaroli dammilenergia con l'elemento Necchi o scherziamo?
 blinda la supercazzola Sassaroli dammilados con l'elemento Necchi o scherziamo?
-blinda la supercazzola Melandri cisiamo o scherziamo?
-
+blinda la supercazzola Necchi cisiamo o scherziamo?
 
 
 blinda la supercazzola  iniziah con quantolungo Necchi o scherziamo?
@@ -128,6 +126,33 @@ blinda la supercazzola dimmilfile o scherziamo?
     prematurata la supercazzola aggiungi con 111 o scherziamo?
     prematurata la supercazzola aggiungi con 110 o scherziamo?
     prematurata la supercazzola aggiungi con 102 o scherziamo?
+    
+
+blinda la supercazzola prendilbagno con l'elemento Necchi, ilvecchio Necchi, il valore Sassaroli o scherziamo?
+blinda la supercazzola Sassaroli dammilbagno con l'elemento Necchi, ilvecchio Necchi o scherziamo?
+
+blinda la supercazzola failmischiotto con il sapone Necchi o scherziamo?
+    voglio il mischiotto, Sassaroli come se fosse prematurata la supercazzola dammidecimale con 3 o scherziamo?    
+    voglio il menomischiotto, Sassaroli come fosse 1.0 meno il mischiotto
+    voglio il contatore, Necchi come fosse 0
+    voglio il temporaneouno, Sassaroli come fosse 0.0
+    voglio il temporaneodue, Sassaroli come fosse 0.0
+    
+    stuzzica
+        il temporaneouno come se fosse prematurata la supercazzola dammilbagno con il contatore, 0 o scherziamo?
+        il temporaneodue come se fosse prematurata la supercazzola dammilbagno con il contatore, 1 o scherziamo?
+                
+        il temporaneouno come fosse il temporaneouno per il mischiotto
+        il temporaneodue come fosse il temporaneodue per il menomischiotto
+        
+        
+        il temporaneouno come fosse il temporaneouno più il temporaneodue
+        
+        prematurata la supercazzola prendilbagno con il contatore, 0, temporaneouno o scherziamo?
+        
+        il contatore come fosse il contatore più 1
+    e brematura anche, se il contatore minore di sapone
+    
 
 Lei ha clacsonato
     prematurata la supercazzola dimmilfile o scherziamo?
@@ -191,7 +216,11 @@ Lei ha clacsonato
     prematurata la supercazzola iniziailsolver o scherziamo?
     
     
-    voglio la fine, Melandri
+    voglio la fine, Necchi come fosse 0
+    voglio il contatoredue, Necchi come fosse 0 
+    voglio la zetareale, Sassaroli come fosse 0.0
+    voglio la zetaimmaginaria, Sassaroli come fosse 0.0
+      
     
     stuzzica
     
@@ -201,15 +230,14 @@ Lei ha clacsonato
       prematurata la supercazzola prendilasigma o scherziamo?
       
       il contatore come fosse 0
-      voglio il contatoredue, Necchi come fosse 0 
-      voglio la zetareale, Sassaroli come fosse 0.0
-      voglio la zetaimmaginaria, Sassaroli come fosse 0.0
-      
-      
-      
+      il contatoredue come fosse 0 
+      la zetareale come fosse 0.0
+      la zetaimmaginaria come fosse 0.0
+         
       
       stuzzica                   
           il contatoredue come fosse 0
+          prematurata la supercazzola prendi con 108, contatore, 0.0, 0.0, 0 o scherziamo?
           stuzzica
               la zetareale come fosse prematurata la supercazzola dammivettore con 119, contatore, 0 o scherziamo?
               la zetaimmaginaria come fosse prematurata la supercazzola dammivettore con 119, contatore, 1 o scherziamo?          
@@ -256,15 +284,20 @@ Lei ha clacsonato
       e brematura anche, se il contatore minore di frequenze
       
 
-      il contatore come se fosse 0
+      il contatore come fosse 0
+      il contatoredue come fosse 0 
+      la zetareale come fosse 0.0
+      la zetaimmaginaria come fosse 0.0
+      il temporaneouno come se fosse 0.0
+      il temporaneodue come se fosse 0.0
       
       stuzzica
           la zetareale come fosse prematurata la supercazzola dammivettore con 108, contatore, 0 o scherziamo?
           la zetaimmaginaria come fosse prematurata la supercazzola dammivettore con 108, contatore, 1 o scherziamo?
 
-          temporaneouno come fosse prematurata la supercazzola dammidecimale con 2 o scherziamo?
+          il temporaneouno come fosse prematurata la supercazzola dammidecimale con 2 o scherziamo?
 
-          la zetareale come fosse la zetareale per 0.25 per temporaneouno
+          la zetareale come fosse la zetareale per 0.25 per il temporaneouno
           la zetaimmaginaria come fosse la zetaimmaginaria per 0.25 per temporaneouno
           
           prematurata la supercazzola prendi con 100, contatore, zetareale, zetaimmaginaria, 0 o scherziamo?
@@ -275,10 +308,12 @@ Lei ha clacsonato
       prematurata la supercazzola lavatiancora o scherziamo?
       
       prematurata la supercazzola spiaccica o scherziamo?
+           
+      prematurata la supercazzola failmischiotto con il sapone o scherziamo?
       
-      la fine come se fosse prematurata la supercazzola cisiamo o scherziamo?
-    
-    e brematura anche, se la fine maggiore di 0
+      la fine come se fosse prematurata la supercazzola cisiamo o scherziamo?   
+      
+    e brematura anche, se la fine minore di 1
     
     
     

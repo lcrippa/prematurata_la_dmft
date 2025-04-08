@@ -16,12 +16,12 @@ std::string bold_red(const std::string& s) { return "\033[1;31m" + s + "\033[0m"
 
 
 // Check convergence
-bool check_convergence(const std::vector<std::complex<double>>& Xnew, double eps, int N1, int N2) {
+int check_convergence(const std::vector<std::complex<double>>& Xnew, double eps, int N1, int N2) {
     static std::vector<std::complex<double>> Xold;
     static int success = 0;
     static int check = 1;
     
-    bool convergence = false;
+    int convergence = 0;
     
     // Allocate and zero Xold if needed
     int Msum = Xnew.size();
@@ -50,17 +50,17 @@ bool check_convergence(const std::vector<std::complex<double>>& Xnew, double eps
     }
 
     if (success > N1) {
-        convergence = true;
+        convergence = 1;
     }
 
     if (check >= N2) {
         std::ofstream ferr("ERROR.README");
         ferr << "\n";
         std::cerr << "Not converged after " << N2 << " iterations." << std::endl;
-        convergence = true;
+        convergence = 1;
     }
-
-    if (convergence) {
+        
+    if (convergence == 1) {
         std::cout << bold_green("error=") << std::scientific << std::setprecision(7) << err << std::endl;
     } else if (err < eps) {
         std::cout << bold_yellow("error=") << std::scientific << std::setprecision(7) << err << std::endl;
@@ -78,8 +78,8 @@ std::string inputFile;
 int Le = 1000;
 int iloop = 0;
 int Nb;
-double wmixing = 0.5;
 double Wband = 1.0;
+double Wmixing = 0.0;
 double pi = M_PI;
 double de = 2*Wband/Le;
 bool converged = false;
@@ -235,6 +235,22 @@ void prendideltadim(int elemento, int valore) {
   delta_dim[elemento] = valore;
 } 
 
+double dammilbagno(int elemento, int vecchio) {
+  if (vecchio == 0 ) {
+    return Bath[elemento];
+    } else {
+    return Bath_prev[elemento];
+  }
+} 
+
+void prendilbagno(int elemento, int vecchio, double valore) {
+  if (vecchio == 0 ) {
+    Bath[elemento] = valore;
+    } else {
+    Bath_prev[elemento] = valore;
+  }
+} 
+
 //return element
 double dammih(int elemento, int quale) {
   if (quale==0) {
@@ -328,6 +344,8 @@ double dammidecimale(int elemento) {
     return xmu;
   case 2:
     return Wband;
+  case 3:
+    return Wmixing;
   }
   return 0.0;
 }
@@ -340,6 +358,8 @@ void prendidecimale(int elemento, double numero) {
     xmu  = numero;
   case 2:
     Wband  = numero;
+  case 3:
+    Wmixing  = numero;
   }
   return;
 }
