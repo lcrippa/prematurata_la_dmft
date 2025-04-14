@@ -8,14 +8,16 @@
 #include <cstring>
 #include <edipack2_cbinding.h>
 
-
+//Costanti
 
 std::string bold_green(const std::string& s) { return "\033[1;32m" + s + "\033[0m"; }
 std::string bold_yellow(const std::string& s) { return "\033[1;33m" + s + "\033[0m"; }
 std::string bold_red(const std::string& s) { return "\033[1;31m" + s + "\033[0m"; }
 
 
-// Check convergence
+// Funzioni
+
+// Convergenza (mimick edipack)
 int check_convergence(const std::vector<std::complex<double>>& Xnew, double eps, int N1, int N2) {
     static std::vector<std::complex<double>> Xold;
     static int success = 0;
@@ -75,7 +77,6 @@ int check_convergence(const std::vector<std::complex<double>>& Xnew, double eps,
 extern "C" {
   
 std::string inputFile; 
-int Le = 1000;
 int Nb;
 double Wband = 1.0;
 double Wmixing = 0.0;
@@ -86,8 +87,6 @@ int64_t bath_dim[1];
 // Solver-specific arrays
 std::vector<int64_t> h_dim;
 std::vector<int64_t> delta_dim;
-std::vector<std::complex<double>> wm;
-std::vector<double> Ebands, Dbands;
 std::vector<double> Bath;
 std::vector<double> Bath_prev;
 std::vector<std::complex<double>> Hloc;
@@ -95,7 +94,6 @@ std::vector<std::complex<double>> Gimp_mats;
 std::vector<std::complex<double>> Self_mats;
 std::vector<std::complex<double>> Gloc_mats;
 std::vector<std::complex<double>> Delta;
-
 
 
 void leggi() {
@@ -140,9 +138,6 @@ int quantol() {
 int quantod() {
   return Delta.size();
 }
-int quantow() {
-  return wm.size();
-}
 int quantohdim() {
   return h_dim.size();
 }
@@ -165,9 +160,6 @@ void inizial(int quantolungo) {
 }
 void iniziad(int quantolungo) {
   Delta.resize(quantolungo, std::complex<double>(0.0,0.0));
-}
-void iniziaw(int quantolungo) {
-  wm.resize(quantolungo, std::complex<double>(0.0,0.0)); 
 }
 void iniziahdim(int quantolungo) {
   h_dim.resize(quantolungo, 0); 
@@ -193,9 +185,6 @@ void crescil(double reale, double immaginario) {
 void crescid(double reale, double immaginario) {
   Delta.push_back(std::complex<double>(reale,immaginario));
 }
-void cresciw(double reale, double immaginario) {
-  wm.push_back(std::complex<double>(reale,immaginario));
-}
 void crescihdim(int valore) {
   h_dim.push_back(valore);
 }
@@ -218,9 +207,6 @@ void prendil(int elemento, double reale, double immaginario) {
 }   
 void prendid(int elemento, double reale, double immaginario) {
   Delta[elemento] = std::complex<double>(reale,immaginario);
-}
-void prendiw(int elemento, double reale, double immaginario) {
-  wm[elemento] = std::complex<double>(reale,immaginario);
 }
 void prendihdim(int elemento, int valore) {
   h_dim[elemento] = valore;
@@ -286,14 +272,6 @@ double dammid(int elemento, int quale) {
   }
 }
 
-double dammiw(int elemento, int quale) {
-  if (quale==0) {
-    return wm[elemento].real();
-  } else {
-    return wm[elemento].imag();
-  }
-}
-
 int dammihdim(int elemento) {
   return h_dim[elemento];
 }
@@ -310,8 +288,6 @@ int dammintero(int elemento) {
     return Norb;
   case 2:
     return Lmats;
-  case 3:
-    return Le;
   }
   return 0;
 }
@@ -324,8 +300,6 @@ void prendintero(int elemento, int numero) {
     Norb = numero;
   case 2:
     Lmats = numero;
-  case 3:
-    Le = numero;
   }
   return;
 }
@@ -378,19 +352,15 @@ void risolvi(){
 }
 
 void prendilag(){
-  get_gimp_site_n5(Gimp_mats.data(), 0, 0, wm.data(), Lmats, 0);
+  std::vector<std::complex<double>> dummyvec;
+  dummyvec.resize(1, std::complex<double>(0.0,0.0));
+  get_gimp_site_n5(Gimp_mats.data(), 0, 0, dummyvec.data(), Lmats, 0);
 }
 
 void prendilasigma(){
-  get_sigma_site_n5(Self_mats.data(), 0, 0, wm.data(), Lmats, 0);
-}
-
-double dammilenergia(int elemento){
-  return Ebands[elemento];
-}
-
-double dammilados(int elemento){
-  return Dbands[elemento];
+  std::vector<std::complex<double>> dummyvec;
+  dummyvec.resize(1, std::complex<double>(0.0,0.0));
+  get_sigma_site_n5(Self_mats.data(), 0, 0, dummyvec.data(), Lmats, 0);
 }
 
 void spiaccica() {

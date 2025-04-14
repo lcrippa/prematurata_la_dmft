@@ -2,11 +2,11 @@ blinda la supercazzola leggi o scherziamo?
 blinda la supercazzola aggiungi con lettera Mascetti o scherziamo?
 blinda la supercazzola Necchi ilbagnoepronto o scherziamo?
 blinda la supercazzola lavati con il sapone Necchi o scherziamo?
+blinda la supercazzola Sassaroli radicequadrata con il radicando Sassaroli o scherziamo?
 blinda la supercazzola Necchi dammintero con l'elemento Necchi o scherziamo?
 blinda la supercazzola Sassaroli dammidecimale con l'elemento Necchi o scherziamo?
 blinda la supercazzola prendintero con l'elemento Necchi, il numero Necchi o scherziamo?
 blinda la supercazzola prendidecimale con l'elemento Necchi, il numero Sassaroli o scherziamo?
-blinda la supercazzola failados o scherziamo?
 blinda la supercazzola passalah o scherziamo?
 blinda la supercazzola iniziailsolver o scherziamo?
 blinda la supercazzola risolvi o scherziamo?
@@ -15,7 +15,6 @@ blinda la supercazzola lavatiancora o scherziamo?
 blinda la supercazzola spiaccica o scherziamo?
 blinda la supercazzola prendilasigma o scherziamo?
 blinda la supercazzola Necchi cisiamo o scherziamo?
-blinda la supercazzola Sassaroli radicequadrata con il radicando Sassaroli o scherziamo?
 
 
 blinda la supercazzola  iniziah con quantolungo Necchi o scherziamo?
@@ -89,8 +88,6 @@ blinda la supercazzola inizia con la cosa Mascetti, quantolungo Necchi o scherzi
           prematurata la supercazzola inizias con quantolungo o scherziamo?
       o magari 100:
           prematurata la supercazzola iniziad con quantolungo o scherziamo?
-      o magari 119:
-          prematurata la supercazzola iniziaw con quantolungo o scherziamo?
       o magari 1:
           prematurata la supercazzola iniziahdim con quantolungo o scherziamo?
       o magari 2:
@@ -111,8 +108,6 @@ blinda la supercazzola prendi con la cosa Mascetti, l'elemento Necchi, il reale 
           prematurata la supercazzola prendis con l'elemento, il reale, l'immaginario o scherziamo?
       o magari 100:
           prematurata la supercazzola prendid con l'elemento, il reale, l'immaginario o scherziamo?
-      o magari 119:
-          prematurata la supercazzola prendiw con l'elemento, il reale, l'immaginario o scherziamo?
       o magari 1:
           prematurata la supercazzola prendihdim con l'elemento, il valore o scherziamo?
       o magari 2:
@@ -134,8 +129,6 @@ blinda la supercazzola Sassaroli dammivettore con la cosa Mascetti, l'elemento N
           il risultato come fosse prematurata la supercazzola dammis con l'elemento, il quale o scherziamo?
       o magari 100:
           il risultato come fosse prematurata la supercazzola dammid con l'elemento, il quale o scherziamo?
-      o magari 119:
-          il risultato come fosse prematurata la supercazzola dammiw con l'elemento, il quale o scherziamo?
       o tarapia tapioco:
           vaffanzum 0.0!
   e velocità di esecuzione
@@ -194,7 +187,7 @@ Lei ha clacsonato
     voglio il freddo, Sassaroli come se fosse prematurata la supercazzola dammidecimale con 0 o scherziamo?
     
     prematurata la supercazzola prendintero con 3, 1000 o scherziamo?
-    voglio il numeropunti, Necchi come se fosse prematurata la supercazzola dammintero con 3 o scherziamo?
+    voglio il numeropunti, Necchi come se fosse 1000
     
     lo spin a posterdati
     gli orbitali a posterdati
@@ -222,7 +215,6 @@ Lei ha clacsonato
     prematurata la supercazzola inizia con 108, spin per spin per orbitali per orbitali per frequenze o scherziamo?
     prematurata la supercazzola inizia con 115, spin per spin per orbitali per orbitali per frequenze o scherziamo?
     prematurata la supercazzola inizia con 100, spin per spin per orbitali per orbitali per frequenze o scherziamo?
-    prematurata la supercazzola inizia con 119, frequenze o scherziamo?
     
     voglio il sapone, Necchi come se fosse prematurata la supercazzola ilbagnoepronto o scherziamo?
     prematurata la supercazzola lavati con il sapone o scherziamo?
@@ -236,7 +228,6 @@ Lei ha clacsonato
         il temporaneouno come se fosse 2 per il contatore più 1
         il temporaneodue come se fosse pigreco diviso freddo
         il temporaneodue come se fosse il temporaneodue per il temporaneouno
-        prematurata la supercazzola prendi con 119, contatore, 0.0, temporaneodue, 0 o scherziamo?
         il contatore come fosse il contatore più 1
     e brematura anche, se il contatore minore di frequenze
     
@@ -269,8 +260,9 @@ Lei ha clacsonato
           il contatoredue come fosse 0
           prematurata la supercazzola prendi con 108, contatore, 0.0, 0.0, 0 o scherziamo?
           stuzzica
-              la zetareale come fosse prematurata la supercazzola dammivettore con 119, contatore, 0 o scherziamo?
-              la zetaimmaginaria come fosse prematurata la supercazzola dammivettore con 119, contatore, 1 o scherziamo?          
+              la zetareale come fosse 0.0
+              la zetaimmaginaria come fosse 2 per il contatore più 1
+              la zetaimmaginaria come fosse la zetaimmaginaria per il pigreco diviso il freddo
               la zetareale come fosse la zetareale più prematurata la supercazzola dammidecimale con 1 o scherziamo?                   
               la zetareale come fosse la zetareale meno prematurata la supercazzola dammivettore con 115, contatore, 0 o scherziamo?                  
               la zetaimmaginaria come fosse la zetaimmaginaria meno prematurata la supercazzola dammivettore con 115, contatore, 1 o scherziamo?
