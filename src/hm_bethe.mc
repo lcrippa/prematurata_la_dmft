@@ -188,6 +188,7 @@ Lei ha clacsonato
     prematurata la supercazzola prendintero con 3, 1000 o scherziamo?
     voglio il numeropunti, Necchi come se fosse 1000
     voglio il frullatore, Sassaroli come fosse 0.5
+    voglio la banda, Sassaroli come fosse 1.0
     
     lo spin a posterdati
     gli orbitali a posterdati
@@ -222,7 +223,6 @@ Lei ha clacsonato
     voglio il contatore, Necchi come se fosse 0
     voglio il temporaneouno, Sassaroli come se fosse 0
     voglio il temporaneodue, Sassaroli come se fosse 0.0
-    voglio la banda, Sassaroli come fosse 1.0
     
     stuzzica
         il temporaneouno come se fosse 2 per il contatore più 1
