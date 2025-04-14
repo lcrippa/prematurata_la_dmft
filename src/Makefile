@@ -23,5 +23,5 @@ hm_bethe.mc:;
 %.mc.o: %.mc
 	$(MCC) -c $< -o $@
 
-hm_bethe: hm_bethe.mc.o util.cpp
+hm_bethe: hm_bethe.mc.o bagaglio.cpp
 	$(CXX) $(FLAG)  $^ -o $@ ${GLOB_INC} ${GLOB_LIB}

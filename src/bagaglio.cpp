@@ -76,16 +76,10 @@ extern "C" {
   
 std::string inputFile; 
 int Le = 1000;
-int iloop = 0;
 int Nb;
 double Wband = 1.0;
 double Wmixing = 0.0;
-double pi = M_PI;
-double de = 2*Wband/Le;
-bool converged = false;
 int64_t bath_dim[1];
-int total_size;
-int total_size_n5;
 
 
 
