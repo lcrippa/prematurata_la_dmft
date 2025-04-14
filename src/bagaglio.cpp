@@ -14,7 +14,6 @@ std::string bold_green(const std::string& s) { return "\033[1;32m" + s + "\033[0
 std::string bold_yellow(const std::string& s) { return "\033[1;33m" + s + "\033[0m"; }
 std::string bold_red(const std::string& s) { return "\033[1;31m" + s + "\033[0m"; }
 
-
 // Funzioni
 
 // Convergenza (mimick edipack)
@@ -76,14 +75,9 @@ int check_convergence(const std::vector<std::complex<double>>& Xnew, double eps,
 
 extern "C" {
   
-std::string inputFile; 
-int Nb;
-double Wband = 1.0;
-int64_t bath_dim[1];
-
-
-
 // Solver-specific arrays
+std::string inputFile; 
+int64_t bath_dim[1];
 std::vector<int64_t> h_dim;
 std::vector<int64_t> delta_dim;
 std::vector<double> Bath;
@@ -309,8 +303,6 @@ double dammidecimale(int elemento) {
     return beta;
   case 1:
     return xmu;
-  case 2:
-    return Wband;
   }
   return 0.0;
 }
@@ -321,8 +313,6 @@ void prendidecimale(int elemento, double numero) {
     beta = numero;
   case 1:
     xmu  = numero;
-  case 2:
-    Wband  = numero;
   }
   return;
 }

@@ -222,7 +222,7 @@ Lei ha clacsonato
     voglio il contatore, Necchi come se fosse 0
     voglio il temporaneouno, Sassaroli come se fosse 0
     voglio il temporaneodue, Sassaroli come se fosse 0.0
-    voglio la banda, Sassaroli come fosse prematurata la supercazzola dammidecimale con 2 o scherziamo?
+    voglio la banda, Sassaroli come fosse 1.0
     
     stuzzica
         il temporaneouno come se fosse 2 per il contatore più 1
@@ -282,7 +282,7 @@ Lei ha clacsonato
               la zetaimmaginaria come se fosse 0.0 meno il temporaneodue
                                                  
               
-              il temporaneouno come se fosse prematurata la supercazzola dammiunados con l'energia, il deltino, il numeropunti, 1.0 o scherziamo? 
+              il temporaneouno come se fosse prematurata la supercazzola dammiunados con l'energia, il deltino, il numeropunti, la banda o scherziamo? 
                             
               
               la zetareale come se fosse il temporaneouno per la zetareale
@@ -318,7 +318,7 @@ Lei ha clacsonato
           la zetareale come fosse prematurata la supercazzola dammivettore con 108, contatore, 0 o scherziamo?
           la zetaimmaginaria come fosse prematurata la supercazzola dammivettore con 108, contatore, 1 o scherziamo?
 
-          il temporaneouno come fosse prematurata la supercazzola dammidecimale con 2 o scherziamo?
+          il temporaneouno come fosse la banda
 
           la zetareale come fosse la zetareale per 0.25 per il temporaneouno
           la zetaimmaginaria come fosse la zetaimmaginaria per 0.25 per temporaneouno
