@@ -363,45 +363,13 @@ void prendidecimale(int elemento, double numero) {
   }
   return;
 }
-  
-  
-// linspace: Linearly spaced values
-std::vector<double> linspace(double start, double end, int num) {
-    std::vector<double> values(num);
-    double step = (end - start) / (num - 1);
-    for (int i = 0; i < num; ++i) {
-        values[i] = start + i * step;
-    }
-    return values;
-}
 
-// arange: Range with step size
-std::vector<double> arange(double start, double end, double step) {
-    std::vector<double> values;
-    for (double val = start; val < end; val += step) {
-        values.push_back(val);
-    }
-    return values;
-}
 
 // dens_bethe: Semicircular Density of States
-std::vector<double> dens_bethe(const std::vector<double>& energies, double W, double de) {
-    std::vector<double> dos(energies.size());
-    for (size_t i = 0; i < energies.size(); ++i) {
-        double E = energies[i];
-        if (abs(E) <= W) {
-            dos[i] = de * (2.0 / M_PI / W) * sqrt(1.0 - pow(E / W, 2));
-        } else {
-            dos[i] = 0.0;
-        }
-    }
-    return dos;
+double radicequadrata(double radicando) {
+    return sqrt(radicando);
 }  
 
-void failados(){
-    Ebands = linspace(-Wband,Wband,Le);
-    Dbands = dens_bethe(Ebands,Wband,de);
-}
 
 void passalah(){
     ed_set_Hloc_single_N4(Hloc.data(), h_dim.data());

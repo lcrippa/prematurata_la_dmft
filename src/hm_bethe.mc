@@ -14,9 +14,8 @@ blinda la supercazzola prendilag o scherziamo?
 blinda la supercazzola lavatiancora o scherziamo?
 blinda la supercazzola spiaccica o scherziamo?
 blinda la supercazzola prendilasigma o scherziamo?
-blinda la supercazzola Sassaroli dammilenergia con l'elemento Necchi o scherziamo?
-blinda la supercazzola Sassaroli dammilados con l'elemento Necchi o scherziamo?
 blinda la supercazzola Necchi cisiamo o scherziamo?
+blinda la supercazzola Sassaroli radicequadrata con il radicando Sassaroli o scherziamo?
 
 
 blinda la supercazzola  iniziah con quantolungo Necchi o scherziamo?
@@ -47,6 +46,36 @@ blinda la supercazzola Sassaroli dammil con l'elemento Necchi, il quale Necchi o
 blinda la supercazzola Sassaroli dammis con l'elemento Necchi, il quale Necchi o scherziamo?
 blinda la supercazzola Sassaroli dammid con l'elemento Necchi, il quale Necchi o scherziamo?
 blinda la supercazzola Sassaroli dammiw con l'elemento Necchi, il quale Necchi o scherziamo?
+
+blinda la supercazzola Sassaroli dammiunaE con l'indice Necchi, la quantità Necchi, il massimo Sassaroli, la cosa Necchi o scherziamo?
+  voglio l'incremento, Sassaroli come fosse 2 per il massimo
+  l'incremento come fosse l'incremento diviso la quantità
+  voglio il risultato, Sassaroli come fosse 0.0 meno il massimo più l'incremento per l'indice
+  che cos'è la cosa?
+  0:
+    vaffanzum l'incremento!
+  o magari 1:
+    vaffanzum il risultato!
+  e velocità di esecuzione
+  
+blinda la supercazzola Sassaroli dammiunados con l'energia Sassaroli, l'incremento Sassaroli, la quantità Necchi, il massimo Sassaroli o scherziamo? 
+    voglio il pigreco, Sassaroli come se fosse 3.14159265358979323846264338327950288419716939937510
+    stuzzica
+        voglio il temporaneouno, Sassaroli come fosse l'energia diviso il massimo
+        il temporaneouno come fosse il temporaneouno per il temporaneouno
+        il temporaneouno come fosse 1.0 meno il temporaneouno
+        il temporaneouno come fosse prematurata la supercazzola radicequadrata con il temporaneouno o scherziamo?
+        voglio il temporaneodue, Sassaroli come fosse 2.0 diviso il pigreco
+        il temporaneodue come fosse il temporaneodue diviso il massimo
+        il temporaneouno come fosse il temporaneouno per il temporaneodue per l'incremento
+        vaffanzum il temporaneouno!
+    e prematura anche, se l'energia per l'energia minore del massimo per il massimo
+    vaffanzum 0.0!
+
+
+
+  
+
 
 blinda la supercazzola inizia con la cosa Mascetti, quantolungo Necchi o scherziamo?
   che cos'è la cosa?
@@ -173,8 +202,6 @@ Lei ha clacsonato
     il freddo a posterdati
     il numeropunti a posterdati
     
-    prematurata la supercazzola failados o scherziamo?
-    
     prematurata la supercazzola inizia con 1, 4 o scherziamo?
     
     prematurata la supercazzola prendi con 1, 0, 0.0, 0.0, spin o scherziamo?
@@ -203,6 +230,7 @@ Lei ha clacsonato
     voglio il contatore, Necchi come se fosse 0
     voglio il temporaneouno, Sassaroli come se fosse 0
     voglio il temporaneodue, Sassaroli come se fosse 0.0
+    voglio la banda, Sassaroli come fosse prematurata la supercazzola dammidecimale con 2 o scherziamo?
     
     stuzzica
         il temporaneouno come se fosse 2 per il contatore più 1
@@ -233,6 +261,8 @@ Lei ha clacsonato
       il contatoredue come fosse 0 
       la zetareale come fosse 0.0
       la zetaimmaginaria come fosse 0.0
+      voglio l'energia, Sassaroli come fosse 0.0
+      voglio il deltino, Sassaroli come fosse prematurata la supercazzola dammiunaE con il contatoredue, il numeropunti, la banda, 0 o scherziamo?
          
       
       stuzzica                   
@@ -247,9 +277,10 @@ Lei ha clacsonato
           
               il temporaneouno come se fosse 0.0
               il temporaneodue come se fosse 0.0
+              l'energia come fosse prematurata la supercazzola dammiunaE con il contatoredue, il numeropunti, la banda, 1 o scherziamo?
+                         
               
-              
-              la zetareale come se fosse la zetareale meno prematurata la supercazzola dammilenergia con contatoredue o scherziamo?                     
+              la zetareale come se fosse la zetareale meno l'energia                   
               il temporaneouno come se fosse la zetareale per la zetareale più la zetaimmaginaria per la zetaimmaginaria             
               
               il temporaneodue come se fosse la zetareale diviso il temporaneouno
@@ -259,7 +290,7 @@ Lei ha clacsonato
               la zetaimmaginaria come se fosse 0.0 meno il temporaneodue
                                                  
               
-              il temporaneouno come se fosse prematurata la supercazzola dammilados con contatoredue o scherziamo?
+              il temporaneouno come se fosse prematurata la supercazzola dammiunados con l'energia, il deltino, il numeropunti, 4.0 o scherziamo? 
                             
               
               la zetareale come se fosse il temporaneouno per la zetareale
