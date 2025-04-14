@@ -25,3 +25,4 @@ hm_bethe.mc:;
 
 hm_bethe: hm_bethe.mc.o bagaglio.cpp
 	$(CXX) $(FLAG)  $^ -o $@ ${GLOB_INC} ${GLOB_LIB}
+	$(RM) *.o
