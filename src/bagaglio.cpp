@@ -324,7 +324,7 @@ double radicequadrata(double radicando) {
 }  
 
 
-void passalah(){
+void prendilah(){
     ed_set_Hloc_single_N4(Hloc.data(), h_dim.data());
 }
 
