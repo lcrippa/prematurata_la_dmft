@@ -62,7 +62,7 @@ int check_convergence(const std::vector<std::complex<double>>& Xnew, double eps,
         convergence = 1;
     }
         
-    if (convergence == 1) {
+    if (convergence == 1 and success > 0) {
         std::cout << bold_green("error=") << std::scientific << std::setprecision(7) << err << std::endl;
     } else if (err < eps) {
         std::cout << bold_yellow("error=") << std::scientific << std::setprecision(7) << err << std::endl;
