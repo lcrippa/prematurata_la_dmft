@@ -68,7 +68,7 @@ blinda la supercazzola Sassaroli dammiunados con l'energia Sassaroli, l'incremen
         il temporaneodue come fosse il temporaneodue diviso il massimo
         il temporaneouno come fosse il temporaneouno per il temporaneodue per l'incremento
         vaffanzum il temporaneouno!
-    e prematura anche, se l'energia per l'energia minore del massimo per il massimo
+    e prematura anche, se l'energia per l'energia minore uguale del massimo per il massimo
     vaffanzum 0.0!
 
 
@@ -282,7 +282,7 @@ Lei ha clacsonato
               la zetaimmaginaria come se fosse 0.0 meno il temporaneodue
                                                  
               
-              il temporaneouno come se fosse prematurata la supercazzola dammiunados con l'energia, il deltino, il numeropunti, 4.0 o scherziamo? 
+              il temporaneouno come se fosse prematurata la supercazzola dammiunados con l'energia, il deltino, il numeropunti, 1.0 o scherziamo? 
                             
               
               la zetareale come se fosse il temporaneouno per la zetareale
