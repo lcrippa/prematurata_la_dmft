@@ -153,9 +153,8 @@ blinda la supercazzola dimmilfile o scherziamo?
 blinda la supercazzola prendilbagno con l'elemento Necchi, ilvecchio Necchi, il valore Sassaroli o scherziamo?
 blinda la supercazzola Sassaroli dammilbagno con l'elemento Necchi, ilvecchio Necchi o scherziamo?
 
-blinda la supercazzola failmischiotto con il sapone Necchi o scherziamo?
-    voglio il mischiotto, Sassaroli come se fosse prematurata la supercazzola dammidecimale con 3 o scherziamo?    
-    voglio il menomischiotto, Sassaroli come fosse 1.0 meno il mischiotto
+blinda la supercazzola failmischiotto con il sapone Necchi, l'intensità Sassaroli o scherziamo?
+    voglio il resto, Sassaroli come fosse 1.0 meno l'intensità
     voglio il contatore, Necchi come fosse 0
     voglio il temporaneouno, Sassaroli come fosse 0.0
     voglio il temporaneodue, Sassaroli come fosse 0.0
@@ -164,8 +163,8 @@ blinda la supercazzola failmischiotto con il sapone Necchi o scherziamo?
         il temporaneouno come se fosse prematurata la supercazzola dammilbagno con il contatore, 0 o scherziamo?
         il temporaneodue come se fosse prematurata la supercazzola dammilbagno con il contatore, 1 o scherziamo?
                 
-        il temporaneouno come fosse il temporaneouno per il mischiotto
-        il temporaneodue come fosse il temporaneodue per il menomischiotto
+        il temporaneouno come fosse il temporaneouno per l'intensità
+        il temporaneodue come fosse il temporaneodue per il resto
         
         
         il temporaneouno come fosse il temporaneouno più il temporaneodue
@@ -188,6 +187,7 @@ Lei ha clacsonato
     
     prematurata la supercazzola prendintero con 3, 1000 o scherziamo?
     voglio il numeropunti, Necchi come se fosse 1000
+    voglio il frullatore, Sassaroli come fosse 0.5
     
     lo spin a posterdati
     gli orbitali a posterdati
@@ -332,7 +332,7 @@ Lei ha clacsonato
       
       prematurata la supercazzola spiaccica o scherziamo?
            
-      prematurata la supercazzola failmischiotto con il sapone o scherziamo?
+      prematurata la supercazzola failmischiotto con il sapone, il frullatore o scherziamo?
       
       la fine come se fosse prematurata la supercazzola cisiamo o scherziamo?   
       

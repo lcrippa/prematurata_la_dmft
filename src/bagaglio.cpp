@@ -79,7 +79,6 @@ extern "C" {
 std::string inputFile; 
 int Nb;
 double Wband = 1.0;
-double Wmixing = 0.0;
 int64_t bath_dim[1];
 
 
@@ -312,8 +311,6 @@ double dammidecimale(int elemento) {
     return xmu;
   case 2:
     return Wband;
-  case 3:
-    return Wmixing;
   }
   return 0.0;
 }
@@ -326,8 +323,6 @@ void prendidecimale(int elemento, double numero) {
     xmu  = numero;
   case 2:
     Wband  = numero;
-  case 3:
-    Wmixing  = numero;
   }
   return;
 }
