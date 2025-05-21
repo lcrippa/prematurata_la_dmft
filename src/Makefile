@@ -1,7 +1,7 @@
 MCC=mcc
 
 # LIBRARIES TO BE INCLUDED
-LIB_ED=edipack2_cbinding
+LIB_ED=edipack_cbindings
 
 FLAG = -O2 -D_MPI
 
