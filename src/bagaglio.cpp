@@ -6,7 +6,7 @@
 #include <iomanip>
 #include <cmath>
 #include <cstring>
-#include <edipack2_cbinding.h>
+#include <edipack_cbindings.h>
 
 //Costanti
 
