@@ -101,7 +101,7 @@ void aggiungi(char lettera) {
 
 int ilbagnoepronto() {
   int Nb;
-  Nb = get_bath_dimension();
+  Nb = get_bath_dimension_direct();
   return Nb;
 }
 
