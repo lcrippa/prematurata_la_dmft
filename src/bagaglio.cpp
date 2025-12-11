@@ -325,7 +325,7 @@ double radicequadrata(double radicando) {
 
 
 void prendilah(){
-    ed_set_Hloc_single_N4(Hloc.data(), h_dim.data());
+    ed_set_Hloc_single_N4(Hloc.data(), Hloc.data(), h_dim.data());
 }
 
 void iniziailsolver(){
